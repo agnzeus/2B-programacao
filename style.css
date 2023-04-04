@@ -1,1 +1,13 @@
+:root {
+    --vermelho: #D00000;
+    --preto: #03071E;
+    --branco:#FFFFFF;
+}
 
+.cabecalho{
+    background-color:var(--preto);
+}
+
+.logo{
+    width: 10%;
+}
