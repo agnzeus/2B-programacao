@@ -2,8 +2,12 @@
     --vermelho: #D00000;
     --preto: #03071E;
     --branco:#FFFFFF;
+    --azul-bebe:#bde0fe;
 }
-
+*{
+    margin: 0%;
+    padding: 0%;
+}
 .cabecalho{
     background-color:var(--preto);
     display: flex;
@@ -19,4 +23,7 @@
 .logo{
     width: 10%;
     margin: 10px;
+}
+.principal{
+    background-color: var(--branco);
 }
