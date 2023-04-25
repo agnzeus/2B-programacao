@@ -26,4 +26,17 @@
 }
 .principal{
     background-color: var(--branco);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.principal__titulo{
+    font-size: 65px;
+}
+.principal__texto{
+    padding: 5px;
+    font-size: 30px;
+}
+.principal__imagem{
+    padding: 5px;
 }
